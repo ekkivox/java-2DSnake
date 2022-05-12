@@ -1,5 +1,5 @@
 # java-2DSnake
 
-made by > ekkivox
+Made by @ekk_ivox.
 
 Uncompiled 2d plain java snake game.
